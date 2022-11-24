@@ -1,6 +1,0 @@
-D:\pedro\Documents\Sistema-Cadastro\SlnSistema\src\SistemaCadastro.Models\bin\Debug\SistemaCadastro.Models.dll
-D:\pedro\Documents\Sistema-Cadastro\SlnSistema\src\SistemaCadastro.Models\bin\Debug\SistemaCadastro.Models.pdb
-D:\pedro\Documents\Sistema-Cadastro\SlnSistema\src\SistemaCadastro.Models\obj\Debug\SistemaCadastro.Models.csproj.AssemblyReference.cache
-D:\pedro\Documents\Sistema-Cadastro\SlnSistema\src\SistemaCadastro.Models\obj\Debug\SistemaCadastro.Models.csproj.CoreCompileInputs.cache
-D:\pedro\Documents\Sistema-Cadastro\SlnSistema\src\SistemaCadastro.Models\obj\Debug\SistemaCadastro.Models.dll
-D:\pedro\Documents\Sistema-Cadastro\SlnSistema\src\SistemaCadastro.Models\obj\Debug\SistemaCadastro.Models.pdb
